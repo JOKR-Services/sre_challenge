@@ -1,6 +1,6 @@
 # **Parte 3: CI/CD Pipeline**
 
-### Deliverable: GitHub Actions Workflow
+### Entregável: GitHub Actions Workflow
 
 Crie um workflow que:
 
@@ -9,7 +9,7 @@ Crie um workflow que:
     - Execute testes automatizados (Unit, Integração, etc...)
     - Faça security scan das imagens
 - **Deploy automatizado:**
-    - Deploy no EKS usando kubectl ou Helm
+    - Deploy em EKS usando kubectl ou Helm
     - Implementar blue/green ou canary deployment
     - Rollback automático em caso de falha
 - **Validação pós-deploy:**

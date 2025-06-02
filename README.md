@@ -66,4 +66,4 @@ Você tem **3 dias** para entregar uma proposta técnica completa que demonstr
 Boa sorte! 🚀
 
 # Anotações gerais
-// Adiicione aqui suas anotações gerais sobre a estrutura utilizada e instruções de como executá-la
+// Adicione aqui suas anotações gerais sobre a estrutura utilizada e instruções de como executá-la

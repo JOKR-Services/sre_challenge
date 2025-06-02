@@ -1,6 +1,6 @@
 # **Parte 2: Infrastructure as Code**
 
-### Deliverable: Código Terraform
+### Entregável: Código Terraform
 
 Implemente um repositório de código **Terraform modular** que provisione os recursos considerados na arquitetura anteriormente desenvolvida (Parte 1)
 
@@ -8,7 +8,7 @@ Implemente um repositório de código **Terraform modular** que provisione os 
 
 - Se atente aos IAM Roles necessários
 - Só iremos avaliar a coerência com o **plan** não com o **apply** evitando confusões com problemas de versões de api do cloud provider, por exemplo.
-- Leve em consideração os recursos de monitoria/observabilidade, pode usar a stack que for mais confortável (Datadog, CloudWatch, ELK, Grafana, Prometheus, etc...)
+- Leve em consideração os recursos de monitoria/observabilidade, pode usar a stack que for mais confortável (Datadog, CloudWatch, ELK, Grafana, Prometheus, etc...), porém ela deve condizer com a proposta entregue na parte 1
 - Provisione todos os recursos que foram levantados na arquitetura proposta por você, a não ser que sejam recursos não disponibilizados pelo provider
 - Lembre-se que a estrutura do terraform deve ser modular
 

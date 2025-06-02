@@ -1,6 +1,6 @@
 # **Parte 1: Arquitetura e Design**
 
-### Deliverable: Documento de Arquitetura
+### Entregável: Documento de Arquitetura
 
 Crie um documento técnico (markdown/PDF) contendo:
 
