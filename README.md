@@ -33,7 +33,7 @@ Você tem **3 dias** para entregar uma proposta técnica completa que demonstr
 
 ### Como entregar:
 
-- Faça um fork do repositório [sre_challenge](https://github.com/JOKR-Services/sre_challenge/fork) em um repositório público do github
+- Faça um fork do repositório [**sre_challenge**](https://github.com/JOKR-Services/sre_challenge/fork) em um repositório público do github
 - O repositório possui os seguintes diretórios:
     - **parte_1_arquitetura** (Contendo markdown ou PDF com solução proposta)
     - **parte_2_terraform** (Com código terraform funcional da estrutura de IAC)
