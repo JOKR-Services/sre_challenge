@@ -22,11 +22,14 @@ Você tem **3 dias** para entregar uma proposta técnica completa que demonstr
 
 ### O que entregar:
 
-1. **README.md** com instruções de estrutura e como executar
-2. **Documento de arquitetura** (formato livre)
-3. **Código Terraform** funcional
-4. **GitHub Actions workflows**
-5. **Aplicação exemplo** (opcional, mas valorizado)
+1. Funcionalidades descritas no **README.md** de cada etapa
+2. Anotações no **README.md** principal do repositório, com instruções de estrutura construida e como executar
+3. Anotações específicas de cada parte no **README.md** de cada diretório
+4. **Documento de arquitetura** (PDF ou Markdown)
+    - Fique a vontade para usar elementos gráficos
+5. **Código Terraform** funcional em estrutura modular
+6. **GitHub Actions workflows** com steps indicados para entrega de uma aplicação na estrutura provisionada anteriormente
+7. **Aplicação exemplo** em qualquer linguagem (opcional, mas valorizado)
 
 ### Como entregar:
 
@@ -36,11 +39,13 @@ Você tem **3 dias** para entregar uma proposta técnica completa que demonstr
     - **parte_2_terraform** (Com código terraform funcional da estrutura de IAC)
     - **parte_3_workflow** (Com arquivos relacionados a construção de workflow CI/CD para deploy de aplicação na estrutura provisionada)
 - Mantenha o commit history organizado, conventional commits é um diferencial.
-- Cada parte possui um README.md explicando o que é esperado em cada parte, além de conter um espaço para anotações onde deve ser preenchido com:
+- Cada parte possui um **README.md** explicando o que é esperado em cada uma delas, além de conter um espaço para anotações onde deve ser preenchido com:
     - Explicação do que foi feito para atingir o resultado entregue
     - Explicação das decisões tomadas envolvendo a solução proposta
-    - Tempo gasto em cada parte (aproximadamente(não encana com isso não, só se conseguir um aproximado :D))
+    - Tempo gasto em cada parte (aproximadamente(não encana com isso não, só se conseguir um aproximado :D)
     - Qualquer consideração que achar importante
+- Após a conclusão, a URL do repositório deve ser enviada para os emails **carlos.santana@soudaki.com** e **renata.azeredo@soudaki.com** com o assunto no formato:
+    - NOME_DO_CANDIDATO - Teste prático - SRE Senior
 
 # **Dicas Importantes**
 
@@ -54,7 +59,11 @@ Você tem **3 dias** para entregar uma proposta técnica completa que demonstr
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 - [Terraform AWS Provider Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 - [EKS Best Practices](https://docs.aws.amazon.com/eks/latest/best-practices/introduction.html)
+- [Github Actions Overview](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions)
 
 **Contato para dúvidas:** carlos.santana@soudaki.com
 
 Boa sorte! 🚀
+
+# Anotações gerais
+// Adiicione aqui suas anotações gerais sobre a estrutura utilizada e instruções de como executá-la
