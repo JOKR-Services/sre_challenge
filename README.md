@@ -44,7 +44,7 @@ Você tem **3 dias** para entregar uma proposta técnica completa que demonstr
     - Explicação das decisões tomadas envolvendo a solução proposta
     - Tempo gasto em cada parte (aproximadamente(não encana com isso não, só se conseguir um aproximado :D)
     - Qualquer consideração que achar importante
-- Após a conclusão, a URL do repositório deve ser enviada para os emails **carlos.santana@soudaki.com** e **renata.azeredo@soudaki.com** com o assunto no formato:
+- Após a conclusão, a URL do repositório deve ser enviada para os emails **carlos.santana@soudaki.com** e **denise.paz@soudaki.com** com o assunto no formato:
     - NOME_DO_CANDIDATO - Teste prático - SRE Senior
 
 # **Dicas Importantes**
